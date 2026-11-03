@@ -1,0 +1,18 @@
+{
+  "name": "Love Diary \u2014 Advanced Relationship Tracker",
+  "short_name": "Love Diary",
+  "description": "A private relationship timeline and memory diary.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f3f6",
+  "theme_color": "#211a2b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
